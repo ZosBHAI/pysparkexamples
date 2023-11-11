@@ -1,0 +1,1 @@
+{"type": "struct", "fields": [{"name": "language", "type": "string", "nullable": true, "metadata": {}}, {"name": "users_count", "type": "string", "nullable": true, "metadata": {}}]}
